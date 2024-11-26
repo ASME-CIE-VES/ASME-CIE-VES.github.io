@@ -92,6 +92,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
   font-weight: 700;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
 }
 
 ul {
@@ -138,6 +140,7 @@ body {
 }
 
 .section-heading h2 {
+  color: #ee626b;
   font-size: 36px;
   font-weight: 700;
   text-transform: capitalize;
